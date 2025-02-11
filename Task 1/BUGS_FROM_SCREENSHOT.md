@@ -17,4 +17,5 @@
 9 Неверная сортировка объявлений по цене Medium
 
 10 Некорректное отображение категории велосипедов Medium 
-![Uploading 411355439-a8c18dc6-bd16-4ba0-b152-2762922d542c.jpg…]()
+
+![411355439-a8c18dc6-bd16-4ba0-b152-2762922d542c](https://github.com/user-attachments/assets/c5b7aa72-3d52-48de-bfa6-963d4690076f)
